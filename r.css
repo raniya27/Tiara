@@ -10,3 +10,11 @@
 .nnn{
     color:gold;
 }
+.container h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    font-family:monospace;
+    
+}
